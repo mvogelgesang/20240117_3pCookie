@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>App to hold pages containing iframe embeds that try to set cookies</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Cookie Tester</label>
+    <navType>Standard</navType>
+    <tabs>auraIframe</tabs>
+    <tabs>lwcCookieFrame</tabs>
+    <tabs>vfCookieFrame</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Cookie_Tester_UtilityBar</utilityBar>
+</CustomApplication>

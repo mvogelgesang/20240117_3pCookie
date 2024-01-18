@@ -1,0 +1,6 @@
+<apex:page >
+<!-- Begin Default Content REMOVE THIS -->
+<h1>Congratulations</h1>
+This is your new Page
+<apex:iframe src="https://aizazhakro.github.io/3p_connector/"></apex:iframe>
+</apex:page>
